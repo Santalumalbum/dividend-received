@@ -1,4 +1,4 @@
-const CACHE = 'haitou-app-v3';
+const CACHE = 'haitou-app-v4';
 const ASSETS = [
   './',
   './index.html',
